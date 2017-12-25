@@ -1,7 +1,5 @@
 import React, { Component } from 'react';
 
-
-//React official guide for handling ref attribute
 class CustomTextInput extends React.Component {
   constructor(props) {
     super(props);
